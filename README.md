@@ -1,2 +1,2 @@
-# RedStore
-RedStore | Responsive E-Commerce Platform for sporting and casual outfit.
+# Fashivtrendz
+Fashuvtrendz | Responsive E-Commerce Platform for sporting and casual outfit.
